@@ -33,7 +33,7 @@ import copy
 import json
 import logging
 import os
-import pathlib
+import pathlib2 as pathlib
 import tarfile
 import tempfile
 import timeit
